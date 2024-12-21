@@ -58,4 +58,4 @@ Contributions are welcome! If you have suggestions, improvements, or examples to
 
 ## Acknowledgements
 
-Created by (https://www.linkedin.com/in/kunal-parkhade/)[Kunal Parkhade]. If you found this repository helpful, please give it a ⭐ to show your support!
+Created by [Kunal Parkhade](https://www.linkedin.com/in/kunal-parkhade/). If you found this repository helpful, please give it a ⭐ to show your support!
